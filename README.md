@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <div id="header" align="center">
-  <img src="https://sun9-47.userapi.com/impg/2FaT8Y_pnlijDWJW6jrVYjMyUp2PoohCKsl5yA/3WV_HeiU_Bg.jpg?size=1280x960&quality=95&sign=e7171deb4c785beaf2bebee32ddb6f7e&type=album" width="100"/>
+  <img src="" width="100"/>
 </div>
